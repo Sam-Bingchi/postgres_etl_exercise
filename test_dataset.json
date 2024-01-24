@@ -1,0 +1,40 @@
+{
+    "transactions": [
+        {
+            "customerId": "d6b1713e-bde0-42cc-a1f3-20c848016c90",
+            "customerName": "Gregory Downs",
+            "transactionId": "7b3c8eee-3689-4cf8-b874-dfbe515d2eb7",
+            "transactionDate": "2024-01-20",
+            "sourceDate": "2024-01-20T17:20:46",
+            "merchantId": 36,
+            "categoryId": 10,
+            "currency": "GBP",
+            "amount": "4000",
+            "description": "Salary"
+        },
+        {
+            "customerId": "new1713e-bde0-42cc-a1f3-20c848016c90",
+            "customerName": "Sam Miller",
+            "transactionId": "new5ea6b-acb8-4dfe-847e-470b6502bd54",
+            "transactionDate": "",
+            "sourceDate": "2024-01-01T12:00:50",
+            "merchantId": 64,
+            "categoryId": 3,
+            "currency": "GBP",
+            "amount": "6000",
+            "description": "Sherman-Love | Refund"
+        },
+        {
+            "customerId": "new1713e-bde0-42cc-a1f3-20c848016c90",
+            "customerName": "Sam Miller",
+            "transactionId": "new5ea6b-acb8-4dfe-847e-470b6502bd54",
+            "transactionDate": "2024-01-01",
+            "sourceDate": "2024-01-01T12:00:50",
+            "merchantId": 64,
+            "categoryId": 3,
+            "currency": "GBP",
+            "amount": "6000",
+            "description": "Sherman-Love | Refund"
+        }
+    ]
+}
